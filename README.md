@@ -39,7 +39,7 @@
 | 231  | [Power of Two](https://leetcode.com/problems/power-of-two) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/PowerofTwo/PowerofTwo.js) |    Easy    |
 | 232  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/ImplementQueueusingStacks/ImplementQueueusingStacks.js) |    Easy    |
 | 234  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/PalindromeLinkedList/PalindromeLinkedList.js) |    Easy    |
-| 237  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Delete NodeinaLinkedList/DeleteNodeinaLinkedList.js) |    Easy    |
+| 237  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/DeleteNodeinaLinkedList/DeleteNodeinaLinkedList.js) |    Easy    |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/ValidAnagram/ValidAnagram.js) |    Easy    |
 | 258  | [Add Digits](https://leetcode.com/problems/add-digits) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/AddDigits/AddDigits.js) |    Easy    |
 | 260  | [Single Number III](https://leetcode.com/problems/single-number-iii) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/SingleNumberIII/SingleNumberIII.js) |   Medium   |
@@ -68,7 +68,7 @@
 | 415  | [Add Strings](https://leetcode.com/problems/add-strings) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/AddStrings/AddStrings.js) |    Easy    |
 | 434  | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/NumberofSegmentsinaString/NumberofSegmentsinaString.js) |    Easy    |
 | 442  | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/FindAllDuplicatesinanArray/FindAllDuplicatesinanArray.js) |   Medium   |
-| 448  | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/Find All Numbers Disappeared in an Array) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/FindAllNumbersDisappearedinanArray/FindAllNumbersDisappearedinanArray.js) |    Easy    |
+| 448  | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/FindAllNumbersDisappearedinanArray/FindAllNumbersDisappearedinanArray.js) |    Easy    |
 | 451  | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/SortCharactersByFrequency/SortCharactersByFrequency.js) |   Medium   |
 | 453  | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/MinimumMovestoEqualArrayElements/MinimumMovestoEqualArrayElements.js) |    Easy    |
 | 455  | [Assign Cookies](https://leetcode.com/problems/assign-cookies) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/AssignCookies/AssignCookies.js) |    Easy    |
