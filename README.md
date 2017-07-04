@@ -19,29 +19,29 @@
 |  49  | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/GroupAnagrams/GroupAnagrams.js) |   Medium   |
 |  58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/LengthofLastWord/LengthofLastWord.js) |    Easy    |
 |  66  | [Plus One](https://leetcode.com/problems/plus-one) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/PlusOne/PlusOne.js) |    Easy    |
-|  71  | [Simplify Path](https://leetcode.com/problems/simplify-path) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Simplify Path/Simplify Path.js) |   Medium   |
-|  83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Remove Duplicates from Sorted List/Remove Duplicates from Sorted List.js) |    Easy    |
-|  88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Merge Sorted Array/Merge Sorted Array.js) |    Easy    |
-|  98  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Validate Binary Search Tree/Validate Binary Search Tree.js) |   Medium   |
-| 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Valid Palindrome/Valid Palindrome.js) |    Easy    |
-| 136  | [Single Number](https://leetcode.com/problems/single-number) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Single Number/Single Number.js) |    Easy    |
-| 137  | [Single Number II](https://leetcode.com/problems/single-number-ii) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Single Number II/Single Number II.js) |   Medium   |
-| 167  | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Two Sum II - Input array is sorted/Two Sum II - Input array is sorted.js) |    Easy    |
-| 169  | [Majority Element](https://leetcode.com/problems/majority-element) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Majority Element/Majority Element.js) |    Easy    |
-| 189  | [Rotate Array](https://leetcode.com/problems/rotate-array) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Rotate Array/Rotate Array.js) |    Easy    |
-| 203  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Remove Linked List Elements/Remove Linked List Elements.js) |    Easy    |
-| 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Isomorphic Strings/Isomorphic Strings.js) |    Easy    |
-| 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Reverse Linked List/Reverse Linked List.js) |    Easy    |
-| 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Contains Duplicate/Contains Duplicate.js) |    Easy    |
-| 219  | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Contains Duplicate II/Contains Duplicate II.js) |    Easy    |
-| 225  | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Implement Stack using Queues/Implement Stack using Queues.js) |    Easy    |
-| 228  | [Summary Ranges](https://leetcode.com/problems/summary-ranges) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Summary Ranges/Summary Ranges.js) |   Medium   |
-| 231  | [Power of Two](https://leetcode.com/problems/power-of-two) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Power of Two/Power of Two.js) |    Easy    |
-| 232  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Implement Queue using Stacks/Implement Queue using Stacks.js) |    Easy    |
-| 234  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Palindrome Linked List/Palindrome Linked List.js) |    Easy    |
-| 237  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Delete Node in a Linked List/Delete Node in a Linked List.js) |    Easy    |
-| 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Valid Anagram/Valid Anagram.js) |    Easy    |
-| 258  | [Add Digits](https://leetcode.com/problems/add-digits) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Add Digits/Add Digits.js) |    Easy    |
+|  71  | [Simplify Path](https://leetcode.com/problems/simplify-path) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/SimplifyPath/SimplifyPath.js) |   Medium   |
+|  83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/RemoveDuplicatesfromSortedList/RemoveDuplicatesfromSortedList.js) |    Easy    |
+|  88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/MergeSortedArray/MergeSortedArray.js) |    Easy    |
+|  98  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/ValidateBinarySearchTree/ValidateBinarySearchTree.js) |   Medium   |
+| 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/ValidPalindrome/ValidPalindrome.js) |    Easy    |
+| 136  | [Single Number](https://leetcode.com/problems/single-number) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/SingleNumber/SingleNumber.js) |    Easy    |
+| 137  | [Single Number II](https://leetcode.com/problems/single-number-ii) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/SingleNumberII/SingleNumberII.js) |   Medium   |
+| 167  | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/TwoSumII-Inputarrayissorted/TwoSumII-Inputarrayissorted.js) |    Easy    |
+| 169  | [Majority Element](https://leetcode.com/problems/majority-element) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/MajorityElement/MajorityElement.js) |    Easy    |
+| 189  | [Rotate Array](https://leetcode.com/problems/rotate-array) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/RotateArray/RotateArray.js) |    Easy    |
+| 203  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/RemoveLinkedListElements/RemoveLinkedListElements.js) |    Easy    |
+| 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/IsomorphicStrings/IsomorphicStrings.js) |    Easy    |
+| 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/ReverseLinkedList/ReverseLinkedList.js) |    Easy    |
+| 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/ContainsDuplicate/ContainsDuplicate.js) |    Easy    |
+| 219  | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/ContainsDuplicateII/ContainsDuplicateII.js) |    Easy    |
+| 225  | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/ImplementStackusingQueues/ImplementStackusingQueues.js) |    Easy    |
+| 228  | [Summary Ranges](https://leetcode.com/problems/summary-ranges) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/SummaryRanges/SummaryRanges.js) |   Medium   |
+| 231  | [Power of Two](https://leetcode.com/problems/power-of-two) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/PowerofTwo/PowerofTwo.js) |    Easy    |
+| 232  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/ImplementQueueusingStacks/ImplementQueueusingStacks.js) |    Easy    |
+| 234  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/PalindromeLinkedList/PalindromeLinkedList.js) |    Easy    |
+| 237  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Delete NodeinaLinkedList/DeleteNodeinaLinkedList.js) |    Easy    |
+| 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/ValidAnagram/ValidAnagram.js) |    Easy    |
+| 258  | [Add Digits](https://leetcode.com/problems/add-digits) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/AddDigits/AddDigits.js) |    Easy    |
 | 260  | [Single Number III](https://leetcode.com/problems/single-number-iii) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/SingleNumberIII/SingleNumberIII.js) |   Medium   |
 | 263  | [Ugly Number](https://leetcode.com/problems/ugly-number) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/UglyNumber/UglyNumber.js) |    Easy    |
 | 268  | [Missing Number](https://leetcode.com/problems/missing-number) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/MissingNumber/MissingNumber.js) |    Easy    |
@@ -55,7 +55,7 @@
 | 342  | [Power of Four](https://leetcode.com/problems/power-of-four) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/PowerofFour/PowerofFour.js) |    Easy    |
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/ReverseString/ReverseString.js) |    Easy    |
 | 345  | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/ReverseVowelsofaString/ReverseVowelsofaString.js) |    Easy    |
-| 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Top KFrequentElements/TopKFrequentElements.js) |   Medium   |
+| 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/TopKFrequentElements/TopKFrequentElements.js) |   Medium   |
 | 349  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/IntersectionofTwoArrays/IntersectionofTwoArrays.js) |    Easy    |
 | 350  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/IntersectionofTwoArraysII/IntersectionofTwoArraysII.js) |    Easy    |
 | 371  | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/SumofTwoIntegers/SumofTwoIntegers.js) |    Easy    |
@@ -64,7 +64,7 @@
 | 389  | [Find the Difference](https://leetcode.com/problems/find-the-difference) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/FindtheDifference/FindtheDifference.js) |    Easy    |
 | 409  | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/LongestPalindrome/LongestPalindrome.js) |    Easy    |
 | 412  | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/FizzBuzz/FizzBuzz.js) |    Easy    |
-| 414  | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Third MaximumNumber/ThirdMaximumNumber.js) |    Easy    |
+| 414  | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/ThirdMaximumNumber/ThirdMaximumNumber.js) |    Easy    |
 | 415  | [Add Strings](https://leetcode.com/problems/add-strings) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/AddStrings/AddStrings.js) |    Easy    |
 | 434  | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/NumberofSegmentsinaString/NumberofSegmentsinaString.js) |    Easy    |
 | 442  | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/FindAllDuplicatesinanArray/FindAllDuplicatesinanArray.js) |   Medium   |
@@ -83,7 +83,7 @@
 | 506  | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/RelativeRanks/RelativeRanks.js) |    Easy    |
 | 520  | [Detect Capital](https://leetcode.com/problems/detect-capital) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/DetectCapital/DetectCapital.js) |    Easy    |
 | 521  | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/LongestUncommonSubsequenceI/LongestUncommonSubsequenceI.js) |    Easy    |
-| 532  | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/K-diff Pairs in an Array/K-diff Pairs in an Array.js) |    Easy    |
+| 532  | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/K-diffPairsinanArray/K-diffPairsinanArray.js) |    Easy    |
 | 535  | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/EncodeandDecodeTinyURL/EncodeandDecodeTinyURL.js) |   Medium   |
 | 537  | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/ComplexNumberMultiplication/ComplexNumberMultiplication.js) |   Medium   |
 | 540  | [Single Element in a Sorted Array](https://leetcode.com/problems/complex-number-multiplication) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/SingleElementinaSortedArray/SingleElementinaSortedArray.js) |   Medium   |
