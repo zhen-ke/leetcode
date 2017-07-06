@@ -78,7 +78,7 @@
 | 461  | [Hamming Distance](https://leetcode.com/problems/construct-the-rectangle) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/HammingDistance/HammingDistance.js) |    Easy    |
 | 476  | [Number Complement](https://leetcode.com/problems/number-complement) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/NumberComplement/NumberComplement.js) |    Easy    |
 | 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/MaxConsecutiveOnes/MaxConsecutiveOnes.js) |    Easy    |
-| 492  | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/constructtherectangle/constructtherectangle.js) |    Easy    |
+| 492  | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/ConstructtheRectangle/ConstructtheRectangle.js) |    Easy    |
 | 495  | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/TeemoAttacking/TeemoAttacking.js) |   Medium   |
 | 496  | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/NextGreaterElementI/NextGreaterElementI.js) |    Easy    |
 | 500  | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/KeyboardRow/KeyboardRow.js) |    Easy    |
@@ -102,3 +102,4 @@
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/CanPlaceFlowers/CanPlaceFlowers.js) |   Medium   |
 | 609  | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/FindDuplicateFileinSystem/FindDuplicateFileinSystem.js) |    Easy    |
 | 628  | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/MaximumProductofThreeNumbers/MaximumProductofThreeNumbers.js) |    Easy    |
+
