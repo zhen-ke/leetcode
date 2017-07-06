@@ -2,7 +2,7 @@
 
 ## LeetCode Algorithm
 
-`94/612 Solved` -` Easy 75` `Medium 18` `Hard 1`
+`95/612 Solved` -` Easy 75` `Medium 18` `Hard 1`
 
 
 |  #   | Title                                    |                 Solution                 | Difficulty |
@@ -75,9 +75,10 @@
 | 453  | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/MinimumMovestoEqualArrayElements/MinimumMovestoEqualArrayElements.js) |    Easy    |
 | 455  | [Assign Cookies](https://leetcode.com/problems/assign-cookies) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/AssignCookies/AssignCookies.js) |    Easy    |
 | 459  | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/RepeatedSubstringPattern/RepeatedSubstringPattern.js) |    Easy    |
-| 461  | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/HammingDistance/HammingDistance.js) |    Easy    |
+| 461  | [Hamming Distance](https://leetcode.com/problems/construct-the-rectangle) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/HammingDistance/HammingDistance.js) |    Easy    |
 | 476  | [Number Complement](https://leetcode.com/problems/number-complement) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/NumberComplement/NumberComplement.js) |    Easy    |
 | 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/MaxConsecutiveOnes/MaxConsecutiveOnes.js) |    Easy    |
+| 492  | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/constructtherectangle/constructtherectangle.js) |    Easy    |
 | 495  | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/TeemoAttacking/TeemoAttacking.js) |   Medium   |
 | 496  | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/NextGreaterElementI/NextGreaterElementI.js) |    Easy    |
 | 500  | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/KeyboardRow/KeyboardRow.js) |    Easy    |
