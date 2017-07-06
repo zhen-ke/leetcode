@@ -2,7 +2,7 @@
 
 ## LeetCode Algorithm
 
-`95/612 Solved` -` Easy 75` `Medium 18` `Hard 1`
+`97/612 Solved` -` Easy 75` `Medium 18` `Hard 1`
 
 
 |  #   | Title                                    |                 Solution                 | Difficulty |
