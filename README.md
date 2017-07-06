@@ -32,6 +32,7 @@
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/MajorityElement/MajorityElement.js) |    Easy    |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/RotateArray/RotateArray.js) |    Easy    |
 | 190  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/ReverseBits/ReverseBits.js) |    Easy    |
+| 191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Numberof1Bits/Numberof1Bits.js) |    Easy    |
 | 203  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/RemoveLinkedListElements/RemoveLinkedListElements.js) |    Easy    |
 | 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/IsomorphicStrings/IsomorphicStrings.js) |    Easy    |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/ReverseLinkedList/ReverseLinkedList.js) |    Easy    |
