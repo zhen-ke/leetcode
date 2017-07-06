@@ -31,6 +31,7 @@
 | 167  | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/TwoSumII-Inputarrayissorted/TwoSumII-Inputarrayissorted.js) |    Easy    |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/MajorityElement/MajorityElement.js) |    Easy    |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/RotateArray/RotateArray.js) |    Easy    |
+| 190  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/ReverseBits/ReverseBits.js) |    Easy    |
 | 203  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/RemoveLinkedListElements/RemoveLinkedListElements.js) |    Easy    |
 | 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/IsomorphicStrings/IsomorphicStrings.js) |    Easy    |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/ReverseLinkedList/ReverseLinkedList.js) |    Easy    |
