@@ -2,7 +2,7 @@
 
 ## LeetCode Algorithm
 
-`98/612 Solved` -` Easy 78` `Medium 18` `Hard 1`
+`99/612 Solved` -` Easy 79` `Medium 19` `Hard 1`
 
 
 |  #   | Title                                    |                 Solution                 | Difficulty |
@@ -19,6 +19,7 @@
 |  28  | [Implement strStr](https://leetcode.com/problems/implement-strstr) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/implementstrstr/implementstrstr.js) |    Easy    |
 |  35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/SearchInsertPosition/SearchInsertPosition.js) |    Easy    |
 |  49  | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/GroupAnagrams/GroupAnagrams.js) |   Medium   |
+|  50  | [Pow(x,n)](https://leetcode.com/problems/powx-n) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Powxn/Powxn.js) |   Medium   |
 |  58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/LengthofLastWord/LengthofLastWord.js) |    Easy    |
 |  66  | [Plus One](https://leetcode.com/problems/plus-one) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/PlusOne/PlusOne.js) |    Easy    |
 |  71  | [Simplify Path](https://leetcode.com/problems/simplify-path) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/SimplifyPath/SimplifyPath.js) |   Medium   |
