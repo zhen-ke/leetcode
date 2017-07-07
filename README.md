@@ -2,7 +2,7 @@
 
 ## LeetCode Algorithm
 
-`99/612 Solved` -` Easy 79` `Medium 19` `Hard 1`
+`100/612 Solved` -` Easy 79` `Medium 20` `Hard 1`
 
 
 |  #   | Title                                    |                 Solution                 | Difficulty |
@@ -25,6 +25,7 @@
 |  71  | [Simplify Path](https://leetcode.com/problems/simplify-path) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/SimplifyPath/SimplifyPath.js) |   Medium   |
 |  83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/RemoveDuplicatesfromSortedList/RemoveDuplicatesfromSortedList.js) |    Easy    |
 |  88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/MergeSortedArray/MergeSortedArray.js) |    Easy    |
+|  94  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.js) |    Medium    |
 |  98  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/ValidateBinarySearchTree/ValidateBinarySearchTree.js) |   Medium   |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/ValidPalindrome/ValidPalindrome.js) |    Easy    |
 | 136  | [Single Number](https://leetcode.com/problems/single-number) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/SingleNumber/SingleNumber.js) |    Easy    |
