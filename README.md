@@ -1,8 +1,8 @@
-# LeetCode
+# ⚡️LeetCode
 
 ## LeetCode Algorithm
 
-`97/612 Solved` -` Easy 75` `Medium 18` `Hard 1`
+`98/612 Solved` -` Easy 78` `Medium 18` `Hard 1`
 
 
 |  #   | Title                                    |                 Solution                 | Difficulty |
@@ -62,6 +62,7 @@
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/TopKFrequentElements/TopKFrequentElements.js) |   Medium   |
 | 349  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/IntersectionofTwoArrays/IntersectionofTwoArrays.js) |    Easy    |
 | 350  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/IntersectionofTwoArraysII/IntersectionofTwoArraysII.js) |    Easy    |
+| 367  | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/ValidPerfectSquare/ValidPerfectSquare.js) |    Easy    |
 | 371  | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/SumofTwoIntegers/SumofTwoIntegers.js) |    Easy    |
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/RansomNote/RansomNote.js) |    Easy    |
 | 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/FirstUniqueCharacterinaString/FirstUniqueCharacterinaString.js) |    Easy    |

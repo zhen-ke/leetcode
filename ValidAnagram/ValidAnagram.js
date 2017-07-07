@@ -7,9 +7,7 @@ var isAnagram = function(s, t) {
   if (s.length !== t.length) return false
   let arr = [];
   let hash = {};
-  let left = 0,
-    right = 0,
-    count = 0
+  let count = 0
   for (let key of t) {
     hash[key] = hash[key] ? ++hash[key] : 1
   }
