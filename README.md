@@ -2,7 +2,7 @@
 
 ## LeetCode Algorithm
 
-`100/612 Solved` -` Easy 79` `Medium 20` `Hard 1`
+`101/612 Solved` -` Easy 79` `Medium 21` `Hard 1`
 
 
 |  #   | Title                                    |                 Solution                 | Difficulty |
@@ -89,6 +89,7 @@
 | 500  | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/KeyboardRow/KeyboardRow.js) |    Easy    |
 | 504  | [Base 7](https://leetcode.com/problems/base-7) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/Base7/Base7.js) |    Easy    |
 | 506  | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/RelativeRanks/RelativeRanks.js) |    Easy    |
+| 515  | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/FindLargestValueinEachTreeRow/FindLargestValueinEachTreeRow.js) |    Medium    |
 | 520  | [Detect Capital](https://leetcode.com/problems/detect-capital) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/DetectCapital/DetectCapital.js) |    Easy    |
 | 521  | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/LongestUncommonSubsequenceI/LongestUncommonSubsequenceI.js) |    Easy    |
 | 532  | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/K-diffPairsinanArray/K-diffPairsinanArray.js) |    Easy    |
