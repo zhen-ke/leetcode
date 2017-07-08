@@ -2,7 +2,7 @@
 
 ## LeetCode Algorithm
 
-`101/612 Solved` -` Easy 79` `Medium 21` `Hard 1`
+`102/612 Solved` -` Easy 79` `Medium 22` `Hard 1`
 
 
 |  #   | Title                                    |                 Solution                 | Difficulty |
@@ -42,6 +42,7 @@
 | 219  | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/ContainsDuplicateII/ContainsDuplicateII.js) |    Easy    |
 | 225  | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/ImplementStackusingQueues/ImplementStackusingQueues.js) |    Easy    |
 | 228  | [Summary Ranges](https://leetcode.com/problems/summary-ranges) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/SummaryRanges/SummaryRanges.js) |   Medium   |
+| 229  | [Majority Element II](https://leetcode.com/problems//majority-element-ii) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/MajorityElementII/MajorityElementII.js) |   Medium   |
 | 231  | [Power of Two](https://leetcode.com/problems/power-of-two) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/PowerofTwo/PowerofTwo.js) |    Easy    |
 | 232  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/ImplementQueueusingStacks/ImplementQueueusingStacks.js) |    Easy    |
 | 234  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [JavaScript](https://github.com/zhen-ke/leetcode/blob/master/PalindromeLinkedList/PalindromeLinkedList.js) |    Easy    |
